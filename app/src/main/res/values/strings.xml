@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MySuspensionBarApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="poigram">Poigram</string>
+</resources>
